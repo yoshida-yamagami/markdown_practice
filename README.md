@@ -78,3 +78,27 @@ HTMLのhタグ（h1, h2…）に相当。
 改行したよ
 ```
 
+# 画像表示
+* 行頭に`!`、その後ろに`[代替文字列]`、さらに後ろに`(画像のURL)`を入れると、画像を差し込むことができる。
+
+![画像が表示されないときのメッセージ：うさぎ写真](https://img.freepik.com/free-photo/easter-celebration-with-dreamy-bunny_23-2151246705.jpg?t=st=1721950879~exp=1721954479~hmac=ee8183c9ed2991c5fc1cff222c37bfa6ac06288f64b34c0d817ee7bdc477a730&w=996)
+
+```
+![画像が表示されないときのメッセージ：うさぎ写真](https://img.freepik.com/free-photo/easter-celebration-with-dreamy-bunny_23-2151246705.jpg?t=st=1721950879~exp=1721954479~hmac=ee8183c9ed2991c5fc1cff222c37bfa6ac06288f64b34c0d817ee7bdc477a730&w=996)
+```
+
+![画像が表示されないときのメッセージ：うさぎ写真](https://jp.freepik.com/photos/%E3%81%86%E3%81%95%E3%81%8E)  
+※リンク先の画像がない場合。代替文字列が表示
+
+```
+![画像が表示されないときのメッセージ：うさぎ写真](https://jp.freepik.com/photos/%E3%81%86%E3%81%95%E3%81%8E)
+```
+
+# リンク表示
+* 行頭に`[文字列]`、その後ろに`(リンク先URL)`を入れると、リンクの入った文字列を入れることができる。
+
+[グーグル](https://www.google.com/)
+
+```
+[グーグル](https://www.google.com/)
+```
