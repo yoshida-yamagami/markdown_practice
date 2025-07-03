@@ -102,3 +102,11 @@ HTMLのhタグ（h1, h2…）に相当。
 ```
 [グーグル](https://www.google.com/)
 ```
+
+# バッジ表示
+* 作成したバッジを表示することができる。書き方は画像の時と同じ。  
+![badge](https://img.shields.io/badge/i_like-rabbit-pink)
+
+```
+![badge](https://img.shields.io/badge/i_like-rabbit-pink)
+```
