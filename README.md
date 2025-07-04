@@ -110,3 +110,11 @@ HTMLのhタグ（h1, h2…）に相当。
 ```
 ![badge](https://img.shields.io/badge/i_like-rabbit-pink)
 ```
+
+# お試し表示
+* 画像のURLが変わる…？
+![badge](https://raw.githubusercontent.com/yoshida-yamagami/markdown_practice/refs/heads/main/images/ChatGPT%E3%81%AB%E6%8F%8F%E3%81%84%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E5%AE%9F%E7%89%A9%E5%AF%84%E3%82%8A%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E7%94%BB%E5%83%8F.png)
+
+```
+![AIに描いてもらったかわいいうさぎの画像](https://raw.githubusercontent.com/yoshida-yamagami/markdown_practice/refs/heads/main/images/ChatGPT%E3%81%AB%E6%8F%8F%E3%81%84%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E5%AE%9F%E7%89%A9%E5%AF%84%E3%82%8A%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E7%94%BB%E5%83%8F.png)
+```
